@@ -1,4 +1,4 @@
-# 2048
+# 2048 and motoGT
 
 --------DSA Mini Project 2015--------
 
